@@ -7,5 +7,5 @@
 运行
 
 ```shell
-python main.py --onnx_model 
+python main.py --onnx_model --video_path
 ```
